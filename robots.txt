@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.imagineerscx.com/sitemap.xml
