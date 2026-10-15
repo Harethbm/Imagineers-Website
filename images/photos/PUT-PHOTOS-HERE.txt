@@ -1,0 +1,14 @@
+Drop photos in this folder using these exact names (JPG, ~1600px on the long side, under 400 KB):
+
+  home-anaverify.jpg            Homepage, AnaVerify section (portrait 4:5)
+  platform-anaverify.jpg        AnaVerify page (portrait 3:4)
+  service-biometrics.jpg        Privacy-Preserving Biometrics page (portrait 3:4)
+  service-pqc.jpg               Post Quantum Protection page
+  service-vc.jpg                Verifiable Credentials & ZKP page
+  service-did.jpg               Decentralized Identity page
+  service-transformation.jpg    Digital Transformation page
+  service-training.jpg          Training page
+  about.jpg                     About page (portrait 4:5)
+  contact.jpg                   Contact page (portrait 4:5)
+
+Until a file exists, an on-brand placeholder is shown automatically.
