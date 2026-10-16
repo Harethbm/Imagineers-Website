@@ -954,3 +954,9 @@ h1, h2, h3, h4 { margin: 0; font-weight: 500; }
 .linkcard { display: block; color: inherit; }
 .linkcard:hover h3 { color: var(--sapphire); }
 .chips.light .chip { border-color: var(--line); color: var(--ink-2); background: #fff; }
+/* Transparent pictures: no rounded frame, soft fade at the bottom edge */
+.natural-pic img[src$="digital-transformation.webp"] {
+  border-radius: 0; -webkit-mask-image: linear-gradient(180deg, #000 84%, transparent); mask-image: linear-gradient(180deg, #000 84%, transparent);
+}
+
+.natural-pic img[src$="about-city.webp"] { border-radius: 0; }
